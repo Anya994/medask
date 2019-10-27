@@ -1,0 +1,18 @@
+{
+    "companies": [
+        {
+            "icon": "https://raw.githubusercontent.com/Anya994/medask/master/Logo.png",
+            "name": "СК МЕД-АСКЕР"
+        },
+        {
+            "icon": "https://raw.githubusercontent.com/Anya994/medask/master/swap-vertical-orientation-arrows%201.png",
+            "name": "СК Рандеву"
+
+        },
+        {
+            "icon": "https://raw.githubusercontent.com/Anya994/medask/master/light-bulb%201.png",
+            "name": "Страх-трах"
+
+        }
+    ]
+}
